@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__fil
 SECRET_KEY = 'csqwlmc8s55o($rt6ozh7u+ui9zb-et00w$d90j8$^!nvj41_r'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -55,9 +55,14 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     #third party apps
     'crispy_forms',
+    'django_filters',
     'registration',
     #my apps
+    'carts',
     'newsletter',
+    'orders',
+    'products',
+    
 )
 
 MIDDLEWARE_CLASSES = (
@@ -150,4 +155,7 @@ SITE_ID = 1
 LOGIN_REDIRECT_URL = '/'
 
 
-
+BRAINTREE_PUBLIC = "yq5h64txrnx33xrm"
+BRAINTREE_PRIVATE = "d2f9aa180b7621714a9bdbe60e8c630e"
+BRAINTREE_MERCHANT_ID = "8qyd6qhkgy5g87kt"
+BRAINTREE_ENVIRONMENT = "sandbox"
