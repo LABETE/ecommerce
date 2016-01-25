@@ -1,0 +1,1140 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"decimal",
+				"decimal_places"
+			],
+			[
+				"decima",
+				"decimal_places	(models.py)"
+			],
+			[
+				"obj",
+				"objects	(views.py)"
+			],
+			[
+				"catego",
+				"category_id	(views.py)"
+			],
+			[
+				"Produ",
+				"ProductFilterForm	class"
+			],
+			[
+				"ProductFilte",
+				"ProductFilterForm	(forms.py)"
+			],
+			[
+				"Product",
+				"ProductFilter"
+			],
+			[
+				"order",
+				"ordering"
+			],
+			[
+				"obje_",
+				"get_object_or_404"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"filter",
+				"filter_class"
+			],
+			[
+				"quer",
+				"queryset"
+			],
+			[
+				"url",
+				"urlresolvers	(views.py)"
+			],
+			[
+				"bill",
+				"billing	(models.py)"
+			],
+			[
+				"pay",
+				"payment_method_nonce"
+			],
+			[
+				"che",
+				"checkout	(views.py)"
+			],
+			[
+				"j",
+				"jquery	(javascript.html)"
+			],
+			[
+				"user_",
+				"user_check_id"
+			],
+			[
+				"non",
+				"None	keyword"
+			],
+			[
+				"cus",
+				"customer_id"
+			],
+			[
+				"cu",
+				"customer_id"
+			],
+			[
+				"get_",
+				"get_braintree_id"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"bra",
+				"braintree_id"
+			],
+			[
+				"DEBUG",
+				"DEBUG"
+			],
+			[
+				"up",
+				"update_braintree_id"
+			],
+			[
+				"con",
+				"contrib"
+			],
+			[
+				"get",
+				"get_object	(views.py)"
+			],
+			[
+				"user_ch",
+				"user_checkout"
+			],
+			[
+				"user_chek",
+				"user_checkout_id"
+			],
+			[
+				"is_",
+				"is_authenticated	(views.py)"
+			],
+			[
+				"user_che",
+				"user_checkout"
+			],
+			[
+				"OrderL",
+				"OrderListView"
+			],
+			[
+				"Or",
+				"OrderList	(views.py)"
+			],
+			[
+				"create",
+				"created	(views.py)"
+			],
+			[
+				"Che",
+				"CheckoutFinalView	(views.py)"
+			],
+			[
+				"user",
+				"user_checkout"
+			],
+			[
+				"user_c",
+				"user_checkout"
+			],
+			[
+				"User",
+				"UserAddressCreateView	(views.py)"
+			],
+			[
+				"USer",
+				"UserAddressForm	class"
+			],
+			[
+				"billing",
+				"billing_address"
+			],
+			[
+				"new_o",
+				"new_order"
+			],
+			[
+				"new_",
+				"new_order	statement"
+			],
+			[
+				"Order",
+				"Order	class"
+			],
+			[
+				"shippi",
+				"shipping_total_price"
+			],
+			[
+				"shipp",
+				"shipping_total_price"
+			],
+			[
+				"new_or",
+				"new_order_id"
+			],
+			[
+				"ship",
+				"shipping_address_id"
+			],
+			[
+				"shi",
+				"shipping_address"
+			],
+			[
+				"sh",
+				"shipping_address	(models.py)"
+			],
+			[
+				"bi",
+				"billing_address	(models.py)"
+			],
+			[
+				"billing_",
+				"billing_address_id	(views.py)"
+			],
+			[
+				"Decimal",
+				"DecimalField"
+			],
+			[
+				"decim",
+				"decimal_places	(models.py)"
+			],
+			[
+				"Decima",
+				"DecimalField	(models.py)"
+			],
+			[
+				"Adre",
+				"AddressSelectFormview"
+			],
+			[
+				"Addre",
+				"UserAddress"
+			],
+			[
+				"AUTH",
+				"AUTH_USER_MODEL"
+			],
+			[
+				"user_chec",
+				"user_checkout"
+			],
+			[
+				"user_check",
+				"user_check_id"
+			],
+			[
+				"total",
+				"total_items"
+			],
+			[
+				"update",
+				"updateCartItemCount"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"Item",
+				"ItemCountView	(views.py)"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"sho",
+				"showFlashMessage	(custom.js)"
+			],
+			[
+				"fad",
+				"fadeIn	(view.html)"
+			],
+			[
+				"lin",
+				"line_item_total	(view.html)"
+			],
+			[
+				"delete",
+				"delete_item"
+			],
+			[
+				"item",
+				"item_added"
+			],
+			[
+				"Cart",
+				"CartItem"
+			],
+			[
+				"remove",
+				"remove_from_cart	(models.py)"
+			],
+			[
+				"Car",
+				"CartItem	class"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"Man",
+				"ManyToManyField	(models.py)"
+			],
+			[
+				"For",
+				"ForeignKey	(models.py)"
+			],
+			[
+				"Prdu",
+				"ProductImage"
+			],
+			[
+				"pro",
+				"products2"
+			],
+			[
+				"text",
+				"text_right	(models.py)"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"bakc",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-repeat"
+			],
+			[
+				"adm",
+				"admin	import"
+			],
+			[
+				"produ",
+				"products_two"
+			],
+			[
+				"dis",
+				"distinct"
+			],
+			[
+				"que",
+				"get_queryset"
+			],
+			[
+				"default",
+				"default_products"
+			],
+			[
+				"slug",
+				"slug"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"sale",
+				"sale_price"
+			],
+			[
+				"variation",
+				"variation_obj"
+			],
+			[
+				"var",
+				"variation_select"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"product",
+				"product_pk"
+			],
+			[
+				"Varia",
+				"VariationInventoryFormset"
+			],
+			[
+				"Vari",
+				"VariationInventoryFormset	statement"
+			],
+			[
+				"Produc",
+				"ProductListView	class"
+			],
+			[
+				"Pro",
+				"ProductImage"
+			],
+			[
+				"new",
+				"new_variation"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"objec",
+				"objects	(models.py)"
+			],
+			[
+				"Prod",
+				"ProductListView"
+			],
+			[
+				"Cura",
+				"CuratedProducts"
+			],
+			[
+				"verb",
+				"verbose_name_plural"
+			],
+			[
+				"ver",
+				"verbose_name"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"vendo",
+				"vendor_name	(views.py)"
+			],
+			[
+				"rat",
+				"rating_obj"
+			],
+			[
+				"rait",
+				"raiting_obj	statement"
+			],
+			[
+				"rai",
+				"raiting	(urls.py)"
+			],
+			[
+				"raigi",
+				"raiting_obj"
+			],
+			[
+				"prod",
+				"product_obj"
+			],
+			[
+				"ProductRa",
+				"ProductRaiting	(views.py)"
+			],
+			[
+				"ajax",
+				"ajax_raiting	(urls.py)"
+			],
+			[
+				"ProductRai",
+				"ProductRatingAjaxView	(views.py)"
+			],
+			[
+				"raiting",
+				"raiting_obj"
+			],
+			[
+				"prudc",
+				"product_obj	statement"
+			],
+			[
+				"rating",
+				"rating_value"
+			],
+			[
+				"get_tran",
+				"get_transactions_today	(mixins.py)"
+			],
+			[
+				"transaction",
+				"transactions_today"
+			],
+			[
+				"toda",
+				"today_max"
+			],
+			[
+				"today",
+				"today_min"
+			],
+			[
+				"transac",
+				"transactions_today"
+			],
+			[
+				"get_object",
+				"get_object_or_404"
+			],
+			[
+				"SellerAccoun",
+				"SellerAccountMixin	(views.py)"
+			],
+			[
+				"SellerAco",
+				"SellerAccountMixin	(views.py)"
+			],
+			[
+				"Sellec",
+				"SellerAccountMixin"
+			],
+			[
+				"Sell",
+				"SellerAccountMixin	(mixins.py)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"alert",
+				"Snippet: bs3-alert-success"
+			],
+			[
+				"tab",
+				"Snippet: bs3-table"
+			],
+			[
+				"form",
+				"Snippet: bs3-form"
+			],
+			[
+				"cycle",
+				"Snippet: cycle"
+			],
+			[
+				"thum",
+				"Snippet: bs3-thumbnail"
+			],
+			[
+				"select",
+				"Snippet: bs3-select"
+			],
+			[
+				"table",
+				"Snippet: bs3-table"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"container",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 butt",
+				"Snippet: bs3-button-primary"
+			],
+			[
+				"bs3 ta",
+				"Snippet: bs3-table-striped"
+			],
+			[
+				"bs3 row",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3 con",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 succ",
+				"Snippet: bs3-label-success"
+			],
+			[
+				"bs3 ",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"bs3 suc",
+				"Snippet: bs3-label-success"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-clearfix"
+			],
+			[
+				"bs3 in",
+				"Snippet: bs3-input-submit"
+			],
+			[
+				"bs3 inputda",
+				"Snippet: bs3-input-date"
+			],
+			[
+				"bs3label",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3inputte",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"bs3lab",
+				"Snippet: bs3-label"
+			],
+			[
+				"button",
+				"Snippet: bs3-button-danger"
+			],
+			[
+				"warn",
+				"Snippet: bs3-button-warning"
+			],
+			[
+				"warni",
+				"Snippet: bs3-alert-warning"
+			],
+			[
+				"conta",
+				"Snippet: bs3-container"
+			],
+			[
+				"label",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3 panel",
+				"Snippet: bs3-panel-table"
+			],
+			[
+				"bs3 pane",
+				"Snippet: bs3-panel"
+			],
+			[
+				"labe",
+				"Snippet: bs3-label"
+			],
+			[
+				"bs3ro",
+				"Snippet: bs3-row"
+			],
+			[
+				"bs3con",
+				"Snippet: bs3-container"
+			],
+			[
+				"console",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"bs3 form",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"bs3 col",
+				"Snippet: bs3-col"
+			],
+			[
+				"bs3 cont",
+				"Snippet: bs3-container"
+			],
+			[
+				"bs3 btn",
+				"Snippet: bs3-input-group-btn"
+			],
+			[
+				"bs3 list",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"bs3 for",
+				"Snippet: bs3-form"
+			],
+			[
+				"bs3 l",
+				"Snippet: bs3-list-group"
+			],
+			[
+				"btn",
+				"Snippet: bs3-input-group-btn"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emme",
+				"Set Syntax: Emmet"
+			],
+			[
+				"contr",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/labete/Desktop/ecommerce-2/src",
+		"/home/labete/Desktop/ecommerce-2/src/carts",
+		"/home/labete/Desktop/ecommerce-2/src/carts/templates",
+		"/home/labete/Desktop/ecommerce-2/src/carts/templates/carts",
+		"/home/labete/Desktop/ecommerce-2/src/ecommerce2",
+		"/home/labete/Desktop/ecommerce-2/src/ecommerce2/settings",
+		"/home/labete/Desktop/ecommerce-2/src/newsletter",
+		"/home/labete/Desktop/ecommerce-2/src/orders",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates/orders",
+		"/home/labete/Desktop/ecommerce-2/src/products",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static/css",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static/js",
+		"/home/labete/Desktop/ecommerce-2/src/templates"
+	],
+	"file_history":
+	[
+		"/home/labete/Desktop/ecommerce-2/src/products/forms.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/views.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/product_list.html",
+		"/home/labete/Desktop/ecommerce-2/src/carts/views.py",
+		"/home/labete/Desktop/ecommerce-2/src/orders/models.py",
+		"/home/labete/Desktop/ecommerce-2/src/ecommerce2/settings/local.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/templates/carts/checkout_view.html",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates/orders/order_list.html",
+		"/home/labete/Desktop/ecommerce-2/src/templates/navbar.html",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates/orders/address_select.html",
+		"/home/labete/Desktop/ecommerce-2/src/templates/javascript.html",
+		"/home/labete/Desktop/ecommerce-2/src/orders/views.py",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates/orders/order_summary_short.html",
+		"/home/labete/Desktop/ecommerce-2/src/orders/templates/orders/order_detail.html",
+		"/home/labete/Desktop/ecommerce-2/src/ecommerce2/urls.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/mixins.py",
+		"/home/labete/Desktop/ecommerce-2/src/orders/admin.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/models.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/templates/carts/view.html",
+		"/home/labete/Desktop/ecommerce-2/src/orders/forms.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/urls.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/product_detail.html",
+		"/home/labete/Desktop/ecommerce-2/src/carts/templates/carts/empty_cart.html",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static/js/custom.js",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static/css/custom.css",
+		"/home/labete/Desktop/ecommerce-2/src/templates/alert.html",
+		"/home/labete/Desktop/ecommerce-2/src/products/models.py",
+		"/home/labete/Desktop/ecommerce-2/src/carts/admin.py",
+		"/home/labete/Desktop/ecommerce-2/src/templates/home.html",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/products.html",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/product_thumbnail.html",
+		"/home/labete/Desktop/ecommerce-2/src/newsletter/views.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/admin.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/category_detail.html",
+		"/home/labete/Desktop/ecommerce-2/src/products/urls_categories.py",
+		"/home/labete/Desktop/ecommerce-2/src/templates/base.html",
+		"/home/labete/Desktop/ecommerce-2/src/products/urls.py",
+		"/home/labete/Desktop/dm/src/products/urls_category.py",
+		"/home/labete/Desktop/dm/urls_category.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/mixins.py",
+		"/home/labete/Desktop/ecommerce-2/src/products/templates/products/variations_list.html",
+		"/home/labete/Desktop/ecommerce-2/src/static_in_pro/our_static/css/navbar-static-top.css",
+		"/home/labete/Desktop/ecommerce-2/src/ecommerce2/settings/base.py",
+		"/home/labete/Desktop/ecommerce-2/src/.gitignore",
+		"/home/labete/Desktop/ecommerce-2/src/manage.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/old_settings.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/settings/base.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/settings/local.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/settings/production.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/urls.py",
+		"/home/labete/Desktop/ecommerce-2/src/trydjango18/wsgi.py",
+		"/home/labete/Desktop/dm/src/products/mixins.py",
+		"/home/labete/Desktop/dm/src/templates/products/product_detail.html",
+		"/home/labete/Desktop/dm/src/templates/dashboard/view.html",
+		"/home/labete/Desktop/dm/src/sellers/urls.py",
+		"/home/labete/Desktop/dm/src/products/forms.py",
+		"/home/labete/Desktop/dm/src/templates/include_form.html",
+		"/home/labete/Desktop/dm/src/dashboard/views.py",
+		"/home/labete/Desktop/dm/src/products/models.py",
+		"/home/labete/Desktop/dm/src/templates/base.html",
+		"/home/labete/Desktop/dm/src/sellers/models.py",
+		"/home/labete/Desktop/dm/src/products/urls.py",
+		"/home/labete/Desktop/dm/src/templates/products/product_list.html",
+		"/home/labete/Desktop/dm/src/products/views.py",
+		"/home/labete/Desktop/dm/src/digitalmarket/settings.py",
+		"/home/labete/Desktop/dm/src/products/admin.py",
+		"/home/labete/Desktop/dm/src/templates/products/product_list_snippet.html",
+		"/home/labete/Desktop/dm/src/templates/sellers/product_list_view.html",
+		"/home/labete/Desktop/dm/src/digitalmarket/urls.py",
+		"/home/labete/Desktop/dm/src/templates/products/library_list.html",
+		"/home/labete/Desktop/dm/src/sellers/views.py",
+		"/home/labete/Desktop/dm/src/sellers/mixins.py",
+		"/home/labete/Desktop/dm/src/templates/sellers/dashboard.html",
+		"/home/labete/Desktop/dm/src/templates/sellers/transaction_list.html",
+		"/home/labete/Desktop/dm/src/billing/admin.py",
+		"/home/labete/Desktop/dm/src/sellers/forms.py",
+		"/home/labete/Desktop/dm/src/billing/models.py",
+		"/home/labete/Desktop/dm/src/templates/sellers/transaction_list_view.html",
+		"/home/labete/Desktop/dm/src/checkout/views.py",
+		"/home/labete/Desktop/dm/src/products/migrations/0024_auto_20151215_1746.py",
+		"/home/labete/Desktop/dm/src/tags/models.py",
+		"/home/labete/Desktop/dm/src/tags/views.py",
+		"/home/labete/Desktop/dm/src/analytics/admin.py",
+		"/home/labete/Desktop/dm/src/sellers/admin.py",
+		"/home/labete/Desktop/dm/src/templates/checkout/test.html",
+		"/home/labete/Desktop/dm/src/products/templatetags/get_thumbnail.py",
+		"/home/labete/Desktop/dm/src/digitalmarket/mixins.py",
+		"/home/labete/Desktop/dm/src/digitalmarket/decorators.py",
+		"/home/labete/Desktop/dm/src/analytics/models.py",
+		"/home/labete/Desktop/dm/src/templates/tags/tag_detail.html",
+		"/home/labete/Desktop/dm/src/static/js/django.csrf.js",
+		"/home/labete/Desktop/dm/src/tags/urls.py",
+		"/home/labete/Desktop/dm/src/templates/tags/tag_list.html",
+		"/home/labete/Desktop/dm/src/products/templatetags/__init__.py",
+		"/home/labete/Desktop/dm/src/tags/admin.py",
+		"/home/labete/Desktop/dm/static_cdn/media/picture-4/tmp/3d_landscape_123_aIdZVnk.jpg",
+		"/home/labete/Desktop/dm/src/templates/detail_view.html",
+		"/home/labete/Desktop/views with functions.py",
+		"/home/labete/Desktop/dm/src/static/css/base.css",
+		"/home/labete/Desktop/dm/static_cdn/media/labete/base.css",
+		"/home/labete/Desktop/dm/src/templates/update_view.html",
+		"/home/labete/Desktop/dm/src/templates/create_view.html",
+		"/home/labete/Desktop/dm/src/templates/list_view.html",
+		"/home/labete/Desktop/dm/src/templates/form.html",
+		"/home/labete/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/labete/Desktop/dm/.gitignore",
+		"/home/labete/Desktop/dm/src/templates",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/static/js/project.js",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/base.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/specialities/speciality_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomtimetable_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classroomtimetables/classroomtimetable_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/urls.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/tests/test_views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/views.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/account/signup.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/admin.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/users/tests/test_models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/core/models.py",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_form.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classrooms/classroom_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/careers/career_list.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classes/class_detail.html",
+		"/home/labete/Desktop/Django_Projects/InstitutionalPortal/InstitutionalPortal/templates/classes/class_list.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/labete/Desktop/ecommerce-2/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dispa",
+			"()",
+			"pre_save",
+			"form",
+			"created",
+			"main-content",
+			"jquery",
+			"item",
+			"subtotal",
+			"cartitem_set",
+			"price",
+			"get_pr",
+			"reverse",
+			"price",
+			"pre",
+			"reques",
+			"trydjango18",
+			"data",
+			"qs",
+			"price",
+			"listview",
+			"deta",
+			"rait",
+			"manager",
+			"thumbnail",
+			"get_download",
+			"hd",
+			"filename",
+			"media.path",
+			"thumbnail_location",
+			"staticfiles_di",
+			"save",
+			"object",
+			"form",
+			"ClassroomTimeTableFormset",
+			"],\n",
+			"class_code",
+			"name",
+			"class",
+			"CareerCreateView",
+			"CareerDetailView",
+			"\"",
+			"get_succesful_url",
+			"list",
+			"form",
+			"admin",
+			"forms",
+			"template",
+			"template_dir",
+			"apps_dir",
+			"app_dir",
+			"APP_DIRS",
+			"APPS_DIR",
+			"APPS",
+			"auth",
+			"template",
+			"process_wb",
+			"xw",
+			"userabs",
+			"drop",
+			"out",
+			"dro",
+			"displayDragDropFile",
+			"drop_dom_element",
+			"del",
+			"drop",
+			"not star",
+			"not applicable",
+			"green",
+			"red",
+			"testcase",
+			"status",
+			"dctprojects",
+			"progress",
+			"project",
+			"testcase",
+			"userlist",
+			"end_date",
+			"splice",
+			"defect",
+			"casedetaildisplayed",
+			"load",
+			"case_id",
+			"CaseDetailController",
+			"ng-hide",
+			"true",
+			"casedetail.step",
+			"if",
+			"user",
+			"defect",
+			"id_displayedname",
+			"case",
+			"project",
+			"id",
+			"window",
+			"name",
+			"pop",
+			"update",
+			"username",
+			"cookies",
+			"roo",
+			"User",
+			"users",
+			"user",
+			"UserprofileCtrl",
+			"UserProfileCtrl",
+			"prof",
+			"user",
+			"coo",
+			"log",
+			"cooki",
+			"username",
+			"cookies",
+			"user",
+			"settings",
+			"model",
+			"response",
+			"MainCtrl",
+			"main",
+			"location",
+			"restrict",
+			"authenticated",
+			"authentica",
+			"sign",
+			"user",
+			"authenticated",
+			"auth",
+			"api_URL"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ecommerce2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce2.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

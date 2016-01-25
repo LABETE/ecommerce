@@ -1,0 +1,13 @@
+bin/
+include/
+lib/
+.DS_STORE
+.Python
+src/ecommerce2/settings/local.py
+src/ecommerce2/settings/production.py
+src/ecommerce2/old_settings.py
+ecommerce2.sublime-project
+pip-selfcheck.json
+webfaction/
+deals.txt
+*.pyc
