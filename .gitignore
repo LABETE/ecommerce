@@ -7,6 +7,7 @@ src/ecommerce2/settings/local.py
 src/ecommerce2/settings/production.py
 src/ecommerce2/old_settings.py
 ecommerce2.sublime-project
+ecommerce2.sublime-workspace
 pip-selfcheck.json
 webfaction/
 deals.txt
