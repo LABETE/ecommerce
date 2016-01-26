@@ -155,7 +155,7 @@ SITE_ID = 1
 LOGIN_REDIRECT_URL = '/'
 
 
-BRAINTREE_PUBLIC = "yq5h64txrnx33xrm"
-BRAINTREE_PRIVATE = "d2f9aa180b7621714a9bdbe60e8c630e"
-BRAINTREE_MERCHANT_ID = "8qyd6qhkgy5g87kt"
+BRAINTREE_PUBLIC = "<braintree_public_key>"
+BRAINTREE_PRIVATE = "<braintree_private_key>"
+BRAINTREE_MERCHANT_ID = "<braintree_merchant_id>"
 BRAINTREE_ENVIRONMENT = "sandbox"
